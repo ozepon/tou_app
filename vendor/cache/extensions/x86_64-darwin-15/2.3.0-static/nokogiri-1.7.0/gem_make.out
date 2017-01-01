@@ -1,5 +1,5 @@
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/nokogiri-1.7.0/ext/nokogiri
-/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161231-70101-1hwjgqx.rb extconf.rb --use-system-libraries
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170102-31481-8ykuvn.rb extconf.rb --use-system-libraries
 checking if the C compiler accepts ... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using system libraries.
@@ -104,4 +104,4 @@ rm -rf /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache
 
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/nokogiri-1.7.0/ext/nokogiri
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20161231-70101-kh5ifp/nokogiri
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20170102-31481-1kzqzu6/nokogiri

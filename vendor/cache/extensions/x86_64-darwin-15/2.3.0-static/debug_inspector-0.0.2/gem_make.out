@@ -1,5 +1,5 @@
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/debug_inspector-0.0.2/ext/debug_inspector
-/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161231-70101-1ez5zzp.rb extconf.rb
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170102-31481-1nsx8m1.rb extconf.rb
 creating Makefile
 
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/debug_inspector-0.0.2/ext/debug_inspector
@@ -12,4 +12,4 @@ linking shared-object debug_inspector.bundle
 
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/debug_inspector-0.0.2/ext/debug_inspector
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20161231-70101-1w0okmq
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170102-31481-dsdsdf

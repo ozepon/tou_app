@@ -1,5 +1,5 @@
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/puma-3.4.0/ext/puma_http11
-/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161231-76837-1fqujny.rb extconf.rb
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170102-31481-11k2458.rb extconf.rb
 checking for BIO_read() in -lcrypto... no
 checking for BIO_read() in -llibeay32... no
 creating Makefile
@@ -21,4 +21,4 @@ linking shared-object puma/puma_http11.bundle
 
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/puma-3.4.0/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20161231-76837-1364wd/puma
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20170102-31481-1v1uktw/puma

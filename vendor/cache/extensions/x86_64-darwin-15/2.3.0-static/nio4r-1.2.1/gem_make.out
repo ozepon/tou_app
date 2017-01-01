@@ -1,5 +1,5 @@
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/nio4r-1.2.1/ext/nio4r
-/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161231-70101-1ssxr7m.rb extconf.rb
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170102-31481-wjp4z1.rb extconf.rb
 checking for unistd.h... yes
 checking for rb_thread_blocking_region()... no
 checking for rb_thread_call_without_gvl()... yes
@@ -239,4 +239,4 @@ linking shared-object nio4r_ext.bundle
 
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/nio4r-1.2.1/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20161231-70101-1afh5y6
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20170102-31481-1hu5vbj

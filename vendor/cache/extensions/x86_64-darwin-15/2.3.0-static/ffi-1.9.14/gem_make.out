@@ -1,5 +1,5 @@
 current directory: /Users/Mac/dandywork/rails_projects/workspace_sample/toy_app/vendor/cache/gems/ffi-1.9.14/ext/ffi_c
-/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161231-70101-xh6mbn.rb extconf.rb
+/Users/Mac/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170102-31481-9kf323.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... no
 checking for rb_thread_blocking_region()... no
@@ -150,4 +150,4 @@ compiling Types.c
 compiling Variadic.c
 linking shared-object ffi_c.bundle
 ld: warning: could not create compact unwind for _ffi_call_unix64: does not use RBP or RSP based frame
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20161231-70101-1blxvzn
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20170102-31481-10ucimh
